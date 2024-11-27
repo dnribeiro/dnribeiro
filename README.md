@@ -28,7 +28,7 @@
   <!-- - SQL, Python, JavaScript, PHP, Java  
   - HTML, CSS (**Bootstrap**)  
   - GitHub, GitLab   -->
-  [![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,js,html,css,bootstrap,cypress,docker,git,github,gitlab,java,mysql,nodejs,php,postgres,py,ts,vscode&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,py,java,mysql,postgres,anaconda,androidstudio,php,js,cypress,ts,nodejs,html,css,bootstrap,git,github,gitlab,docker&perline=10)](https://skillicons.dev)
 - **Experiência Básica:**  
   - **Atoti**, **Power BI**, **Pandas**, **JupyterLab**, **Cypress**
 
