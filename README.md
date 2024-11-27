@@ -25,10 +25,7 @@
 
 ⚙️ **Habilidades Técnicas:**  
 - **Aprendendo as Linguagens e Ferramentas:**  
-  <!-- - SQL, Python, JavaScript, PHP, Java  
-  - HTML, CSS (**Bootstrap**)  
-  - GitHub, GitLab   -->
-  [![My Skills](https://skillicons.dev/icons?i=vscode,py,java,mysql,postgres,anaconda,androidstudio,php,js,cypress,ts,nodejs,html,css,bootstrap,git,github,gitlab,docker&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,py,java,mysql,postgres,php,js,cypress,ts,nodejs,html,css,bootstrap,git,github,gitlab,anaconda,androidstudio,docker&perline=10)](https://skillicons.dev)
 - **Experiência Básica:**  
   - **Atoti**, **Power BI**, **Pandas**, **JupyterLab**, **Cypress**
 
