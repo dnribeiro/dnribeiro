@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Davi Nunes Ribeiro
+# 👋 Olá! Eu sou Davi
 
 🎶 **Sobre Mim:**  
 - 🎂 19 anos  
