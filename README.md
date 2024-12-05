@@ -39,3 +39,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davinunesribeiro@gmail.com) &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/balladsofdavi) &nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/366576220185559040)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnribeiro&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnribeiro&layout=donut&theme=dark)
