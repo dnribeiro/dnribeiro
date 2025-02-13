@@ -13,7 +13,7 @@ jobs:
       
       - name: Update README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: |
           # Aqui você pode usar um script para atualizar o README
           # O token estará disponível como variável de ambiente
