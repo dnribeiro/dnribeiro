@@ -7,7 +7,7 @@
 
 🎓 **Formação:**  
 - Técnico em Informática para Internet pelo **IFES Serra**  
-- (2/8) Bacharelando em Sistemas de Informação no **IFES Serra**  
+- (3/8) Bacharelando em Sistemas de Informação no **IFES Serra**  
 - Bolsista do Laboratório de Extensão e Desenvolvimento (**LEDS**)
 
 💻 **Experiência e Projetos:**  
