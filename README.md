@@ -1,19 +1,17 @@
 # 👋 Olá! Eu sou Davi
 
-🎶 **Sobre Mim:**  
-- 🎂 19 anos  
-- 🎸 Músico  
-- ✝ Cristão 
-
 🎓 **Formação:**  
 - Técnico em Informática para Internet pelo **IFES Serra**  
 - (3/8) Bacharelando em Sistemas de Informação no **IFES Serra**  
-- Bolsista do Laboratório de Extensão e Desenvolvimento (**LEDS**)
+- Ex-Bolsista do Laboratório de Extensão e Desenvolvimento (**LEDS**)
 
 💻 **Experiência e Projetos:**  
-- **ConectaFAPES (LEDS):** Atualmente contribuo na área de **Quality Assurance**, focando em:
+- **ConectaFAPES (LEDS):** Contribuí na área de **Quality Assurance**, focando em:
   - Documentação no **Docusaurus**  
-  - Testes automatizados com **Cypress**  
+  - Testes automatizados com **Cypress**
+  - Validação de requisitos funcionais e não funcionais
+  - Clean code com SonarQube
+  - Estruturação de pipelines de teste para CI/CD  
 - **Smart Idea (LEDS):** Desenvolvi dashboards para suporte à tomada de decisões usando:
   - **Atoti**, **Power BI**, **Pandas** e **JupyterLab**  
 - **Projeto Integrador (Domos):** Durante o curso técnico, desenvolvi:
